@@ -18,3 +18,7 @@ You can either clone the repository or download `installer.sh` directly.
 ```bash
 chmod +x installer.sh
 ./installer.sh
+
+## 📄 License
+
+This project is licensed under the [MIT License](./LICENSE).
